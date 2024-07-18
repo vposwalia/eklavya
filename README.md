@@ -25,7 +25,7 @@ The Ekalavya Foundation project is a comprehensive web application designed to s
 ### Clone the Repository
 
 ```
-https://github.com/cfgmumbai24/Team-18.git
+https://github.com/vposwalia/eklavya
 cd Team-18
 ```
 
