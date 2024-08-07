@@ -54,7 +54,7 @@ npm start
 ```
 
 ## Configure PostgreSQL
- Create a new PostgreSQL database and update the DATABASES setting in the Django settings.py file.
+ Create a new SQL database and update the DATABASES setting in the Django settings.py file.
 
 ## Running Mistral (if applicable)
  Mistral is a workflow service. Ensure it is set up and running as per your environment requirements.
